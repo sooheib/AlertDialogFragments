@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlertDialog Fragments</string>
+    <string-array name="titles">
+        <item>John Smith</item>
+        <item>Jane Doe</item>
+        <item>Adam Johnson</item>
+    </string-array>
+</resources>
